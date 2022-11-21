@@ -1,0 +1,8 @@
+{
+	"title": "ice tech",
+	"author": "ice li",
+	"plugins": [
+		"-sharing",
+		"-livereload"
+	]
+}
